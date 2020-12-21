@@ -15,12 +15,12 @@ var car1img, car2img, car3img, car4img;
 function preload(){
 
 
-track = loadImage("../images/track.jpg")
-car1img = loadImage("../images/car1.png")
-car2img = loadImage("../images/car2.png")
-car3img = loadImage("../images/car3.png")
-car4img = loadImage("../images/car4.png")
-ground = loadImage("../images/ground.png")
+track = loadImage("images/track.jpg")
+car1img = loadImage("images/car1.png")
+car2img = loadImage("images/car2.png")
+car3img = loadImage("images/car3.png")
+car4img = loadImage("images/car4.png")
+ground = loadImage("images/ground.png")
 
 
 
